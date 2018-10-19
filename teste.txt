@@ -1,8 +1,4 @@
 Yata Anderson Fernandes Da Cunha
 E-mail: yataschalke04@gmail.com
-<<<<<<< HEAD
-Telefone: (09) 0909-9009
-=======
 Telefone: (09) 0909-9009
 Curso Computaçao em nuvem
->>>>>>> teste
